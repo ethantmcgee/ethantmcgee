@@ -1,6 +1,6 @@
 ### 👋
 
-I'm Ethan, a Software / DevOps Engineer currently located in Greenville, SC.  I'm the Lead Development / DevOps Engineer at [@iagtech](https://github.com/iagtech), and I'm the founder of [@adagotech](https://github.com/adagotech): a small, privacy-focused startup that builds self-hostable, open source software systems.  I also formerly taught at [@bjucps](https://github.com/bjucps).
+I'm Ethan, a Software / DevOps Engineer currently located in Greenville, SC.  I'm Cloud Platform Engineer at [Enlighten](https://www.eitccorp.com/), and I'm the founder and core contributor of [@adagotech](https://github.com/adagotech): a small, privacy-focused startup that builds self-hostable, open source software systems.  I also formerly taught at [@bjucps](https://github.com/bjucps).
 
 **📫 How to Reach Me**
 
@@ -45,5 +45,5 @@ You can contact me via [email](mailto:bulletshot60@gmail.com) or [discord](https
 **Things I'm Learning**:
 
 <div style="display: flex;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" />        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" />        
 </div>
