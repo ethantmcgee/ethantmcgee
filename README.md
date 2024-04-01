@@ -8,7 +8,8 @@ You can contact me via [email](mailto:bulletshot60@gmail.com) or [discord](https
 
 **What I'm Currently Contributing To**:
 
-[FormBox.dev](https://github.com/adagotech/formbox) - An open-source alternative to Formspree.io written in Django (Python) + React
+- [FormBox.dev](https://github.com/adagotech/formbox) - An open-source alternative to Formspree.io written in Django (Python) + React
+- [IAG EKS Terraform Setup](https://github.com/iagtech/eks-definition) - An open source definition of [@iagtech](https://github.com/iagtech)'s standard EKS setup with EFS, EBS, and ELB
 
 **Languages I Work In**:
 
