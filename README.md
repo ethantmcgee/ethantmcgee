@@ -2,10 +2,6 @@
 
 I'm Ethan, a Software / DevOps Engineer currently located in Greenville, SC.  I'm a Cloud Platform Engineer at [Enlighten](https://www.eitccorp.com/), and I also teach at [@bjucps](https://github.com/bjucps).
 
-**📫 How to Reach Me**
-
-You can contact me via [email](mailto:bulletshot60@gmail.com) or [discord](https://discord.com/users/236173319374635008).
-
 **What I'm Currently Contributing To**:
 
 - [FormBox.dev](https://github.com/ethantmcgee/formbox) - An open-source alternative to Formspree.io written in Django (Python) + React
