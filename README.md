@@ -1,6 +1,6 @@
 ### 👋
 
-I'm Ethan, a Software / DevOps Engineer currently located in Greenville, SC.  I'm a Cloud Platform Engineer at [Enlighten](https://www.eitccorp.com/), and I also formerly taught at [@bjucps](https://github.com/bjucps).
+I'm Ethan, a Software / DevOps Engineer currently located in Greenville, SC.  I'm a Senior Backend / Platform Engineer at [@yubico](https://github.com/yubico), and I also formerly taught at [@bjucps](https://github.com/bjucps).
 
 **What I'm Currently Contributing To**:
 
